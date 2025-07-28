@@ -1,0 +1,1 @@
+# complimentcoin.sol
