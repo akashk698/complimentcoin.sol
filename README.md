@@ -131,6 +131,7 @@ This project teaches:
 ### License
 
 MIT License - Feel free to use for educational purposes
+<img width="1908" height="865" alt="image" src="https://github.com/user-attachments/assets/bac3bc00-2f36-450f-8f8d-ec2501e85aa5" />
 
 ### Support
 
